@@ -6,7 +6,7 @@
 
 _Include your visualization, and introduce us to what you did._
 
-## Working with Tableau
+## Part two: Working with Tableau
 [Link to the graph](https://public.tableau.com/views/Book1_17256507270470/GeneralDebt?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div class='tableauPlaceholder' id='viz1725651440508' style='position: relative'>
