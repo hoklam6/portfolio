@@ -42,6 +42,8 @@ _Include your visualization, and introduce us to what you did._
 
 _I choose to create a world heat map to indicate which country has the highest avarage ratio, and I label those countries that people are most familiar with. I utilize the red color to present the information, which works fine. This is a follow graph of part 2. Reader can easily find out the key information from the map. The map is clear and without too many data labeled. It is helpful for those audiences who are not good at geography._
 
+[Link to the graph](https://public.tableau.com/shared/R5WHSKJMB?:display_count=n&:origin=viz_share_link)
+
 <div class='tableauPlaceholder' id='viz1725658946295' style='position: relative'>
     <noscript>
         <a href='#'>
