@@ -35,6 +35,17 @@ _Include your visualization, and introduce us to what you did._
     </object>
 </div>
 
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1725651440508');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+
 
 
 
@@ -44,7 +55,7 @@ _I choose to create a world heat map to indicate which country has the highest a
 
 [Link to the graph](https://public.tableau.com/shared/R5WHSKJMB?:display_count=n&:origin=viz_share_link)
 
-<div class='tableauPlaceholder' id='viz1725658946295' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1725658753713' style='position: relative'>
     <noscript>
         <a href='#'>
             <img alt='Global Debt-to-GDP Ratio Map' 
@@ -55,7 +66,9 @@ _I choose to create a world heat map to indicate which country has the highest a
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
-        <param name='path' value='views/Book2_17256587285940/Individualgraph?:language=en-US&amp;embed=true&amp;sid=&amp;redirect=auth' />
+        <param name='site_root' value='' />
+        <param name='name' value='Book2_17256587285940/Individualgraph' />
+        <param name='tabs' value='no' />
         <param name='toolbar' value='yes' />
         <param name='static_image' 
                value='https://public.tableau.com/static/images/Bo/Book2_17256587285940/Individualgraph/1.png' />
@@ -65,8 +78,19 @@ _I choose to create a world heat map to indicate which country has the highest a
         <param name='display_overlay' value='yes' />
         <param name='display_count' value='yes' />
         <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
     </object>
 </div>
+
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1725658753713');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 
 
