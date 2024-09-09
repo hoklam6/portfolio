@@ -5,7 +5,7 @@
 ## Part one: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
-![General government debt](government_debt.jpg)
+![General government debt](government_debt.png)
 
 
 ## Part two: Working with Tableau
