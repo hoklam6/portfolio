@@ -38,7 +38,11 @@ _After the interview, I modify my sketch in the tableau based on their advice, b
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_For my final solution, I use the color orange to fill the bar, which makes the bar more clearly, comparing to other color. I rank the list from highest to lowest, which would also help the reader to follow the visualization. Moreover, I put the living expense and tuition as separate part in the annotation. Thus, if the reader put their mouse on the bar, they could get more information._
+
+![Detail Info](detail_info.png)
+
+[Link to the visualization](https://public.tableau.com/app/profile/hoklam.cheung/viz/visualization2_17266187722420/Sheet1?publish=yes)
 
 <div class='tableauPlaceholder' id='viz1726618831991' style='position: relative'>
     <noscript>
