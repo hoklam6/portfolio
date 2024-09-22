@@ -10,9 +10,6 @@ The essence of this project is to adequately describe smoking characteristics in
 
 In order to meet these aims, the project intends to use three datasets. The Youth Tobacco Survey (YTS), which ranges from 1999 to 2017, has more detailed information about tobacco use, tobacco cessation attempts, and tobacco advertising exposure among middle and high schoolers. The Behavioral Risk Factor Surveillance System (BRFSS) in the years 2011 to 2019 offered data on adult smoking behaviors. It covers smoking and electronic cigarette use, incidence and frequency as well. Finally, the 2015 NSDUH – National Survey of Drug users and health supply a broader perspective on drug use, including tobacco, and collects detailed information on the demographic correlates of substance use and health outcomes.
 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
 ## Project Structure
 ### Setup
 In this setup phase, we also establish the analytical frameworks and tools that will be used to dissect and display the data. Utilizing both statistical analysis and dynamic data visualization tools like Tableau, the project sets the stage for a deep dive into the patterns that these datasets reveal.
