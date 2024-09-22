@@ -58,9 +58,9 @@ NSDUH provides broader context on substance use, including tobacco. This dataset
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Youth Tobacco Survey (YTS) Data|https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data|youth smoking rate|
-|Behavioral Risk Factor Data: Tobacco Use (2011 to present)|https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present|  |
-|National Survey on Drug Use and Health (NSDUH-2015)| https://catalog.data.gov/dataset/national-survey-on-drug-use-and-health-nsduh-2015|
+|Youth Tobacco Survey (YTS) Data|[link](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)|youth smoking rate|
+|Behavioral Risk Factor Data: Tobacco Use (2011 to present)|[link](https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)|  |
+|National Survey on Drug Use and Health (NSDUH-2015)| [link](https://catalog.data.gov/dataset/national-survey-on-drug-use-and-health-nsduh-2015)|
 
 # Method and medium
 Descriptive Statistics: The foundation of our analysis involves descriptive statistics, which will provide basic summaries about the samples, such as measures of tendency (mean, median, mode), dispersion (range, variance, standard deviation), and proportions. This approach will help in understanding the distribution and central characteristics of the data without making assumptions or inferences about the population that the data are drawn from.
