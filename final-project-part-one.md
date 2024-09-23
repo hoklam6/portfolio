@@ -42,7 +42,7 @@ And finally, I endorse the community-based approaches. There is great importance
 
 ## Initial sketches
 
-![Initial Sketch](initial_sketch.png)
+![Initial Sketch](initial_sketch.jpg)
 
 My initial sketch included three visualizations, the first one is a pie chart which presents the general proportions of people smoke in the recent year, the second one is a trends visualization shows the increase or decrease trends of people who smokes, and with the last visualization presents the direct smoking data to the audience.
 
