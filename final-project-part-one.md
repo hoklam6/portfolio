@@ -41,9 +41,11 @@ And finally, I endorse the community-based approaches. There is great importance
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Initial Sketch](initial_sketch.png)
+
+My initial sketch included three visualizations, the first one is a pie chart which presents the general proportions of people smoke in the recent year, the second one is a trends visualization shows the increase or decrease trends of people who smokes, and with the last visualization presents the direct smoking data to the audience.
+
 
 # The data
 1. Youth Tobacco Survey (YTS) Data (1999-2017)
