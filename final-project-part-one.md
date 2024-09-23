@@ -52,15 +52,12 @@ The YTS data provides necessary information on how smoking is acquired and devel
 2. Behavioral Risk  Factor Surveillance System (BRFSS) Data (2011-2019)
 The BRFSS dataset offers a comprehensive look at adult smoking behaviors, cessation efforts, and the use of emerging tobacco products like e-cigarettes. This dataset is crucial for understanding adult smoking patterns and their implications on health.
 
-3. National Survey on Drug Use and Health (NSDUH-2015)
-NSDUH provides broader context on substance use, including tobacco. This dataset includes detailed demographic information that helps in understanding the social and economic factors influencing tobacco use.
-
 
 | Name | URL | Description |
 |------|-----|-------------|
 |Youth Tobacco Survey (YTS) Data|[link](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)|youth smoking rate|
-|Behavioral Risk Factor Data: Tobacco Use (2011 to present)|[link](https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)|  |
-|National Survey on Drug Use and Health (NSDUH-2015)| [link](https://catalog.data.gov/dataset/national-survey-on-drug-use-and-health-nsduh-2015)|
+|Behavioral Risk Factor Data: Tobacco Use (2011 to present)|[link](https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)| General category of smoking groups in the U.S. |
+
 
 # Method and medium
 Descriptive Statistics: The foundation of our analysis involves descriptive statistics, which will provide basic summaries about the samples, such as measures of tendency (mean, median, mode), dispersion (range, variance, standard deviation), and proportions. This approach will help in understanding the distribution and central characteristics of the data without making assumptions or inferences about the population that the data are drawn from.
