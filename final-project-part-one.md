@@ -54,11 +54,14 @@ The YTS data provides necessary information on how smoking is acquired and devel
 2. Behavioral Risk  Factor Surveillance System (BRFSS) Data (2011-2019)
 The BRFSS dataset offers a comprehensive look at adult smoking behaviors, cessation efforts, and the use of emerging tobacco products like e-cigarettes. This dataset is crucial for understanding adult smoking patterns and their implications on health.
 
+3. State Tobacco-Related Disparities
+This dataset include the statistics with different states about the smoking groups, the amount of people and the group of age.
 
 | Name | URL | Description |
 |------|-----|-------------|
 |Youth Tobacco Survey (YTS) Data|[link](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)|youth smoking rate|
 |Behavioral Risk Factor Data: Tobacco Use (2011 to present)|[link](https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)| General category of smoking groups in the U.S. |
+|State Tobacco|https://www.cdc.gov/tobacco-health-equity/data-research/?CDC_AAref_Val=https://www.cdc.gov/tobacco/health-equity/disparities-dashboard.html| Tobaco data by state|
 
 
 # Method and medium
