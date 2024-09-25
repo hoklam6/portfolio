@@ -61,7 +61,7 @@ This dataset include the statistics with different states about the smoking grou
 |------|-----|-------------|
 |Youth Tobacco Survey (YTS) Data|[link](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)|youth smoking rate|
 |Behavioral Risk Factor Data: Tobacco Use (2011 to present)|[link](https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)| General category of smoking groups in the U.S. |
-|State Tobacco|https://www.cdc.gov/tobacco-health-equity/data-research/?CDC_AAref_Val=https://www.cdc.gov/tobacco/health-equity/disparities-dashboard.html| Tobaco data by state|
+|State Tobacco|[link](https://www.cdc.gov/tobacco-health-equity/data-research/?CDC_AAref_Val=https://www.cdc.gov/tobacco/health-equity/disparities-dashboard.html)| Tobaco data by state|
 
 
 # Method and medium
