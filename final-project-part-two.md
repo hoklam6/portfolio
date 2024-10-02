@@ -105,7 +105,7 @@ I wanted to choose three people that represented a wide demographic of people I 
       <td><strong>Is there anything the presentation could emphasize more?</strong></td>
       <td>It would be helpful if the presentation emphasized the addictive nature of nicotine, regardless of its form. Highlighting the transition risk from vaping to traditional smoking could also be impactful, especially for an audience that might view vaping as a harmless activity.</td>
       <td>The presentation could emphasize more on the direct health effects of vaping, using data and possibly real-life examples or case studies.</td>
-      <td>It would be beneficial if the presentation included more information about the psychological and social factors that influence teens to start vaping. Understanding these factors can help parents and educators develop more effective communication strategies to prevent e-cigarette use.</td>
+      <td>It would be beneficial if the presentation included more information about the psychological and social factors that influence teens to start vaping. Understanding these factors can help parents and educators develop more effective communication strategies to prevent e-cigarette use</td>
     </tr>
   </tbody>
 </table>
