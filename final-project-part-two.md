@@ -86,7 +86,7 @@ I wanted to choose three people that represented a wide demographic of people I 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Detail the call to action | Based on the interview, most of them mention that I should put more stuffs in the Call to Action session |
-|  Add more context to make the whole visualization more interested | Currently, I did not provide any context except the description of the visualization.|
+|  Add more context to make the whole visualization more interested | Currently, I did not provide any context except the description of the visualization|
 
 
 
