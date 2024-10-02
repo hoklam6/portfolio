@@ -73,8 +73,9 @@ I wanted to choose three people that represented a wide demographic of people I 
 |Is the story structure effective in promoting anti e-cigarettes law?|Is there anything the presentation could emphasize more?|
 
 ## Interview findings
-| Questions               | Interview 1 (Current Smoker) | Interview 2 (Univerisity Student, Non-Smoker) | Interview 3 (Parents of Middle School child)|
+| Questions               | Interview 1 University student, Current Smoker | Interview 2 Univerisity Student, Non-Smoker | Interview 3 Parents of Middle School child|
 |-------------------------|--------------------------------|-------------|-------------|
+|What message do you think these visualizations convey?|The graphs illustrate a trend towards increased vaping among teenagers, particularly in middle school and high school. They convey the message that while traditional cigarette usage may be declining, vaping is becoming a significant issue.|The graphs highlight the prevalence and trends of e-cigarette use among youth. They convey a clear message about the increasing popularity of vaping, which seems to be perceived as a safer alternative to smoking traditional cigarettes, though this perception is misleading.|The graphs clearly highlight a rising trend of e-cigarette use among teenagers, particularly those in middle school. They convey the message that vaping is becoming an increasing behavior in younger age groups, which is concerning for parents.|
 
 
 
