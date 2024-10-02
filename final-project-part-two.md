@@ -1,9 +1,23 @@
 | [home page](https://hoklam6.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Personally, I am a smoker. When I think about what is the very first type of cigarette I smoke, the e-cigarettes comes to my mind. It tastes like candy and looks cool when you smoke with my friends. After that, I start to have the curiosity to try the cigarettes, and eventually get addictive to nicotine. In the project part I, I provide a very broad topics in the smoking, telling some very general points that people might already know, so I decide to narrow down my topic. As my experience, vaping is the start point of becoming a smoker. How about other people? With this question in my mind, I start to research on the related data.
 
-Text here!
+| Dataset | Description |
+|------|------------------|
+|      |                  |
+|      |                  |
+|      |                  |
+
+
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
+![6](6.png)
+![7](7.png)
+
 
 # User research 
 
