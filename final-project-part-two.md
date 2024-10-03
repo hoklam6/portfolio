@@ -68,7 +68,7 @@ I wanted to choose three people that represented a wide demographic of people I 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Make the graphs being used to investigate the trends of e-cigarettes in recent years within youth|What message do you think this (these) graph(s) convey? Do you think that there are any room for improvement for this graph?|
+|Make the graphs being used to investigate the trends of e-cigarettes in recent years within youth|What message do you think these graphs convey? Do you think that there is any improvement for this graph?|
 |Is my presentation effective when motivating the audience to act on smoking problem?| What do you like/don’t like about the suggestions?|
 |Is the story structure effective in promoting anti e-cigarettes law?|Is there anything the presentation could emphasize more?|
 
