@@ -85,27 +85,27 @@ I wanted to choose three people that represented a wide demographic of people I 
   <tbody>
     <tr>
       <td><strong>What message do you think these visualizations convey?</strong></td>
-      <td>The graphs illustrate a trend towards increased vaping among teenagers, particularly in middle school and high school. They convey the message that while traditional cigarette usage may be declining, vaping is becoming a significant issue.</td>
-      <td>The graphs highlight the prevalence and trends of e-cigarette use among youth. They convey a clear message about the increasing popularity of vaping, which seems to be perceived as a safer alternative to smoking traditional cigarettes, though this perception is misleading.</td>
-      <td>The graphs clearly highlight a rising trend of e-cigarette use among teenagers, particularly those in middle school. They convey the message that vaping is becoming an increasing behavior in younger age groups, which is concerning for parents.</td>
+      <td>The graphs illustrate a trend of vaping among teenagers, particularly in middle school and high school. They convey the message that vaping is becoming a significant issue, while traditional cigarette usage may be decreasing.</td>
+      <td>The graphs highlight the prevalence of e-cigarette use among youth. The visualizations convey a clear message about the increasing popularity of vaping, which seems to be a safer alternative to smoking traditional cigarettes, though this point of view is wrong.</td>
+      <td>The graphs clearly highlight a rising trend of e-cigarette use among youth, particularly those in middle school. These graphs indicate that vaping is becoming an increasing behavior in younger age groups, which is concerning for parents.</td>
     </tr>
     <tr>
-      <td><strong>Do you think that there is any room for improvement for this graph?</strong></td>
-      <td>Yes, there are a few improvements that could be made. Enhancing the detail and clarity of the data presented in the graphs could help. Additionally, adding more context around the health implications of vaping compared to smoking could strengthen the message. Comparisons to data from earlier years could also illustrate trends over time more effectively.</td>
-      <td>Yes, the graphs could be improved by enhancing visual clarity, making sure that the data points are clear, and ensuring that the graphs use consistent labeling to avoid confusion. Interactive elements such as tooltips or sliders could make the data more engaging if presented online.</td>
+      <td><strong>Do you think that there is any improvement for this graph?</strong></td>
+      <td>Yes, there are a few improvements that could be made. Adding more detail and clarity of the data could help. Additionally, putting some more context around the health implications of vaping compared to smoking could strengthen the message. Comparing the data from earlier years could also illustrate trends over time more effectively.</td>
+      <td>Yes, the graphs could be improved by making sure that the data points are clear, and ensuring that the graphs use consistent labeling to avoid confusion. Interactive elements such as tooltips could make the data more engaging if presented online.</td>
       <td>I think the graphs are great in general.</td>
     </tr>
     <tr>
       <td><strong>What do you like or don’t like about the suggestions?</strong></td>
-      <td>I appreciate the straightforward and actionable suggestions like increasing taxation and banning flavored e-cigarettes. These seem like practical steps to deter use among teens. However, more innovative solutions could be explored, such as incorporating technology-based interventions or peer influence strategies to be more appealing to the youth.</td>
-      <td>I like your visualization. It zooms in on the topic you want to discuss, but I think more detail should be added to the call to action, making it more specific.</td>
+      <td>I pretty like the straightforward and actionable suggestions like increasing taxation and banning flavored e-cigarettes. These seem like practical steps to decrease the use of e-cigarettes among teens. However, more innovative solutions could be explored, such as peer influence strategies to be more appealing to the youth.</td>
+      <td>I like your visualization. It gradually zooms in to the topic you want to discuss, but I think more detail should be added to the call to action, making it more specific and clear.</td>
       <td>I like your proposal on e-cigarettes, and I want to know more about how parents can take a proactive step when communicating with children.</td>
     </tr>
     <tr>
       <td><strong>Is there anything the presentation could emphasize more?</strong></td>
-      <td>It would be helpful if the presentation emphasized the addictive nature of nicotine, regardless of its form. Highlighting the transition risk from vaping to traditional smoking could also be impactful, especially for an audience that might view vaping as a harmless activity.</td>
+      <td>It would be helpful if the presentation emphasized more on the addictive point of nicotine, regardless of its form. Highlighting the transition risk from vaping to traditional smoking could also be impactful, especially for an audience that might view vaping as a harmless cigarettes.</td>
       <td>The presentation could emphasize more on the direct health effects of vaping, using data and possibly real-life examples or case studies.</td>
-      <td>It would be beneficial if the presentation included more information about the psychological and social factors that influence teens to start vaping. Understanding these factors can help parents and educators develop more effective communication strategies to prevent e-cigarette use</td>
+      <td>It would be beneficial if the presentation included more information about the psychological and social factors that influence teens to start vaping. Understanding these factors can help parents and school to develop more effective communication strategies to prevent e-cigarette use by teenagers. </td>
     </tr>
   </tbody>
 </table>
