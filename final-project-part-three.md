@@ -17,12 +17,8 @@ There were a few changes I made when I put the visualization and the story into 
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+My final audience would be the policy maker, parents/school, and teenagers (high school and middle school students). Policy maker could realize the urgency to protect our next generation, parents and school could get to know the proper way to educate their children, and teenagers would start awaring the harm of the E-cigarettes and help their friends who currently smoke to quit. In the call to action section, I list the achievable action that they could do for anti E-cigarettes. Based on the advice I get from the interview, I make the call to action for each group more specific.
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+At the very beginning of this project, I am struggling with the story I could tell from the data, so I only focus on the very general aspect of smoking. After I got the feedback and really think about which aspect I should narrow down to, I realize that I could use my own experience of smoking to write the story, like how I begin to smoke. Then, I start researching on E-cigarettes. I enjoy doing this project. If I have more time to dig into this topic, I really want to find some data about how E-cigarettes would affect human body to further strengthen my statement -- a more thorough analysis.
